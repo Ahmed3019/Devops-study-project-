@@ -1,0 +1,9 @@
+## to intiate git working tree use command >>       $ git init 
+## to add file to staging area use command  >>      $ git add "file name or . or *" 
+## to commit changes use command >>                 $ git commit - m "something to write as a message"
+## to identify username and Email globally on the system use thes commands 
+                                                    $ git config -- global user.name "Ahmed Salah Salama"
+                                                    $ git config -- global user.email "Ahmed3019@github.com"
+## to know git status >>                            $ git status 
+## to configure remote server                       $ git remote add orgin git@github.com ahmed3019/git-work 
+##
